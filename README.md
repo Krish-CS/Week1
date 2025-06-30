@@ -68,6 +68,7 @@ The model takes a `station_id` and `year` as input and returns predicted polluta
 - **Internship Type:** AICTE Virtual Internship – Edunet Foundation
 - **Sponsor:** Shell
 - **Month:** June 2025
+- **Week:** Week - 1
 - **Focus Area:** Machine Learning for Environmental Monitoring
 
 
